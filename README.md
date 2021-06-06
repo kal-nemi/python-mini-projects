@@ -1,9 +1,10 @@
-# python-mini-projects
+# **Python Mini Projects**
 Some mini projects done using python
 
 ## Normal Coding 
 
 - [x] Basic Dice game
+- [x] Guess Number
 
 ## Using Libraries
 
