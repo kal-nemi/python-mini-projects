@@ -10,7 +10,6 @@ Some mini projects done using python
 > Tktinter Projects
 
 - [ ] Hello World
-- [ ] 
 
 > Kivy Projects
 
