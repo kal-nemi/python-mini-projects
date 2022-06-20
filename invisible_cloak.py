@@ -1,3 +1,7 @@
+# Take a red cloth and record a video holding it.
+# The portion covered by the red cloth will become invisible.
+
+
 import cv2
 import numpy as np
 import time
